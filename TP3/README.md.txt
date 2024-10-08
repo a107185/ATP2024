@@ -1,0 +1,1 @@
+A criação do jogo dos fósforos permitiu um aprofundamento melhor da utilização da ferramenta cíclica while, acompanhada da estrutura if. Além disso, a necessidade de compreender o problema e as várias variáveis deste, levou a um melhor "planeamento" prévio da estrutura final.
