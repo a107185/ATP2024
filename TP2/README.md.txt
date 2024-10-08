@@ -1,2 +1,0 @@
-A criação do programa consistiu na utilização da função random.randrange(a, b), capaz de gerar um número inteiro aleatório entre a e b, excluindo b. 
-Além disso, a ferramenta while surge também para permitir criar um ciclo que se finaliza quando o utilizador ou o computador acerta o número.
