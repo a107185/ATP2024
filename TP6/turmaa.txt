@@ -1,0 +1,6 @@
+TURMA A 
+João Maria Rodrigues Ferreira::a100100::14.0::15.5::11.0 
+Mariana Correia::a100105::5.0::12.0::6.0 
+Lara Bravo::a100108::16.0::12.0::14.0 
+Fernanda Ribeiro Vieira::a100109::18.0::19.0::17.0 
+Jasmim Madalena Rosa::a100110::20.0::20.0::20.0 
