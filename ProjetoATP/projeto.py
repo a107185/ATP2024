@@ -1,6 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 import PySimpleGUI as sg
+import os
 
 #CARREGAR DATASET
 def loaddata(path_data):
