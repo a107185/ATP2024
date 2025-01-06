@@ -4,8 +4,16 @@ import PySimpleGUI as sg
 
 #CARREGAR DATASET
 def loaddata(path_data):
-    with open(path_data, encoding='utf-8') as f:
-        data = json.load(f)
+    if os.path.exists(path_data):
+        if path_data[-5:] == '.json':
+            with open(path_data, encoding='utf-8') as f:
+                data = json.load(f)
+        else:
+            data = None
+            print("O ficheiro não é do tipo JSON.")
+    else: 
+        data = None
+        print("Ficheiro não encontrado.")
     return data
 
 #CRIAR PUBLICAÇÃO
